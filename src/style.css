@@ -1,0 +1,31 @@
+body {
+    font-family: serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+p {
+    margin: 0;
+}
+
+h1 h2 h3 h4 h5 h6 {
+    margin: 0;
+}
+
+.name {
+    text-align: center;
+    margin: 1rem;
+}
+
+.headerInfo {
+    display: flex;
+    justify-content: center;
+    gap:1rem;
+    align-items: center;
+}
+
+.bodyContainer {
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
